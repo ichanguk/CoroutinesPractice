@@ -8,7 +8,7 @@
 ## *Contents*
 
 1. [basics](https://github.com/ichanguk/coroutines-practice/tree/master/app/src/main/java/basic)
-2. Cancellation and Timeouts
+2. [Cancellation and Timeouts](https://github.com/ichanguk/coroutines-practice/tree/master/app/src/main/java/cancellation)
 3. Composing Suspending Functions
 4. Coroutines under the hood
 5. Coroutine Context and Dispatchers
