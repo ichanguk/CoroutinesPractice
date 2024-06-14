@@ -9,6 +9,6 @@
 
 1. [basics](https://github.com/ichanguk/coroutines-practice/tree/master/app/src/main/java/basic)
 2. [Cancellation and Timeouts](https://github.com/ichanguk/coroutines-practice/tree/master/app/src/main/java/cancellation)
-3. Composing Suspending Functions
-4. Coroutines under the hood
-5. Coroutine Context and Dispatchers
+3. [Composing Suspending Functions](https://github.com/ichanguk/coroutines-practice/tree/master/app/src/main/java/compose)
+4. [Coroutines under the hood](https://github.com/ichanguk/coroutines-practice/tree/master/app/src/main/java/no_magic)
+5. [Coroutine Context and Dispatchers](https://github.com/ichanguk/coroutines-practice/tree/master/app/src/main/java/context_dispatcher)
