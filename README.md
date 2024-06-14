@@ -3,7 +3,10 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/ichanguk/coroutines-practice?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ichanguk/coroutines-practice?color=orange&logo=java&style=flat-square)
 
 - coroutine 학습을 위한 저장소입니다.
-- 학습 자료 : 새차원의 코틀린 코루틴 강좌
+- 학습 자료 : 
+
+    - 새차원의 코틀린 코루틴 강좌
+    - [코틀린 공식 github](https://github.com/Kotlin/kotlinx.coroutines)
 
 ## *Contents*
 
